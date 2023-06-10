@@ -148,7 +148,7 @@ if display_options == "1":
 elif display_options == "2":
     symbols = input_data 
     input_value = json.dumps(symbols)
-    subprocess.run(["python", "file2.py", input_value])    
+    subprocess.run(["python", "crypto_price_visualizer.py", input_value])    
     
 else:
     print("Invalid option. Please try again.")
