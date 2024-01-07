@@ -41,8 +41,8 @@ To install the dependencies, you can use the following command:
 `pip install -r requirements.txt`
 
 
-##future steps
-<!--phase two:
+<!--##future steps
+phase two:
 
     stockPrediction.ipynb
 
