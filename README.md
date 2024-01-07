@@ -37,8 +37,9 @@ This project has the following dependencies:
 - `sys`
 
 To install the dependencies, you can use the following command:
-```bash
-pip install -r requirements.txt
+
+`pip install -r requirements.txt`
+
 
 ##future steps
 <!--phase two:
