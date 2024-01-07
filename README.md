@@ -25,15 +25,15 @@ The `crypto_price_visualizer.py` script is responsible for visualizing real-time
 
 #### Dependencies
 
-- List any dependencies here.
+This project has the following dependencies:
 
-#### How to Run
+- `requests`: Used for making API requests to the CoinGecko API.
+- `matplotlib`: Utilized for creating visualizations and live plots.
+- Other potential dependencies based on the project's specific requirements.
 
-- Provide instructions on how to run the project.
+To install the dependencies, you can use the following command:
 
 ```bash
-# Example command or code snippet
-
     
 
 
