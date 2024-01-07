@@ -33,6 +33,8 @@ This project has the following dependencies:
 - `pandas`
 - `subprocess`
 - `json`
+- `datetime`
+- `sys`
 
 To install the dependencies, you can use the following command:
 
