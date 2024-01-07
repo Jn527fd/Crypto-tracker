@@ -1,6 +1,7 @@
 This is a ongoing project by Jesus Naranjo and Kelly Tsidji
 
 **Phase one:**
+
 This phase of the project aims to create a cryptocurrency price tracking system with data collection and visualization capabilities.      In the first phase, two primary scripts have been developed: crypto_data_collector.py and crypto_price_visualizer.py. These scripts 
 work in tandem to gather real-time cryptocurrency data and visualize it using Matplotlib.
 
