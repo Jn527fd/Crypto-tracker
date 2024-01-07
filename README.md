@@ -37,10 +37,10 @@ This project has the following dependencies:
 - `sys`
 
 To install the dependencies, you can use the following command:
-```bash
 pip install -r requirements.txt
 
-<!--phase two:-->
+##future steps
+<!--phase two:
 
     stockPrediction.ipynb
 
@@ -49,6 +49,3 @@ phase three:
 
 current in the works:
 --->
-
-[//]: # (This is a comment on a new line.)
-
