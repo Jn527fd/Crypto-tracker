@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This ongoing project by Jesus Naranjo and Kelly Tsidji focuses on creating a cryptocurrency price tracking system with data collection and visualization capabilities.
+This ongoing project by Jesus Naranjo focuses on creating a cryptocurrency price tracking system with data collection and visualization capabilities.
 
 ### Phase One:
 
