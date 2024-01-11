@@ -11,7 +11,7 @@ In the first phase, two primary scripts have been developed: `crypto_data_collec
 #### Contributors
 
 - Jesus Naranjo
-- Kelly Tsidji
+
 
 #### Scripts
 
